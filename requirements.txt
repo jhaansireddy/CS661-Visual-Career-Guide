@@ -1,5 +1,11 @@
+numpy
+pandas
+seaborn
 plotly
+dash
 nbformat
 ipywidgets
 ipykernel
 ipympl
+scikit-learn
+nltk
