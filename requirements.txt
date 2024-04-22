@@ -10,3 +10,6 @@ ipympl==0.7.0
 scikit-learn==0.24.2
 nltk==3.6.2
 matplotlib==3.4.2
+dash_bootstrap_components==0.13.1
+openpyxl==3.0.7
+dash_cytoscape==0.3.0
