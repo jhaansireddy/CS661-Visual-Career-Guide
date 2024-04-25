@@ -10,3 +10,6 @@ venv.bak/
 # Jupyter notebook
 .ipynb_checkpoints
 .ipynb_checkpoints/
+
+# Big Folders
+Data/linkedin_jobs_and_skills/
